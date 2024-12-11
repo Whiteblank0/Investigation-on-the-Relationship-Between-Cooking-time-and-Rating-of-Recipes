@@ -79,7 +79,7 @@ Our cleaned dataframe ended up with 83782 rows and 27 columns.
 ### Univariate Analysis
 
 <iframe
-  src="assets/aa.html"
+  src="aa.html"
   width="800"
   height="600"
   frameborder="0"
@@ -88,7 +88,7 @@ Our cleaned dataframe ended up with 83782 rows and 27 columns.
 ### Bivariate Analysis
 
 <iframe
-  src="assets/bb.html"
+  src="bb.html"
   width="800"
   height="600"
   frameborder="0"
@@ -126,7 +126,7 @@ We then computed the **observed test statistic**, which is the mean difference i
 Next, we shuffled the average ratings across the dataset 1,000 times to generate a distribution of mean differences under the null hypothesis. This allowed us to calculate the **p-value**, which represents the proportion of simulations where the test statistic is at least as extreme as the observed value. The resulting **p-value** was **0.000**, indicating a highly statistically significant result.
 
 <iframe
-  src="assets/hy_test.html"
+  src="hy_test.html"
   width="800"
   height="600"
   frameborder="0"
